@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/compassdegree"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/heading"
+        android:textColor="@color/dark_grey"
+        android:textSize="40sp" />
+    
+	<RelativeLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    	android:background="@drawable/compass9">
+	    
+	    <ImageView
+	        android:id="@+id/imageViewCompass"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_centerInParent="true"
+	        android:contentDescription="@string/image_desc"
+	        android:src="@drawable/compass_arrow" />
+	</RelativeLayout>
+</LinearLayout>

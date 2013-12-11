@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AT5</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Main -->
+    <string name="home_swipe">Swipe to select app</string>
+    <string name="home_img">Home screen page</string>
+    <string name="open">Open</string>
+    <string name="title_activity_stopwatch">Stopwatch</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="title_activity_currency_converter">Currency Converter</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="title_activity_notepad">Notepad</string>
+    
+    <!-- Compass -->
+    <string name="heading">0° N</string>
+    <string name="image_desc">compass dial</string>
+
+    <!-- Stopwatch -->
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="lap">Lap</string>
+    
+    <!-- Currency converter -->
+    <string name="enterValue">Enter a value</string>
+    <string name="flag">Flag</string>
+    <string name="from">From</string>
+    <string name="initialFromValue">1.00</string>
+    <string name="symbol">$</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="swap">↑↓</string>
+    <string name="swapDesc">Swap</string>
+    <string name="clear">Clear</string>
+            
+    <string-array name="name">
+        <item>Australian Dollar</item>
+        <item>British Pound</item>
+        <item>Canadian Dollar</item>
+        <item>European Union Euro</item>
+        <item>Indian Rupee</item>
+        <item>Japanese Yen</item>
+        <item>Korean Won</item>
+        <item>New Zealand Dollar</item>
+        <item>Norwegian Krone</item>
+        <item>Philippine Peso</item>
+        <item>Singaporean Dollar</item>
+        <item>US Dollar</item>
+        <item>Venezuelan Bolívar</item>
+        <item>Vietnamese Dong</item>
+    </string-array>
+    <string-array name="value">
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>SGD</item>
+        <item>USD</item>
+        <item>VEF</item>
+        <item>VND</item>
+    </string-array>
+    <string-array name="symbol">
+        <item>$</item>
+        <item>£</item>
+        <item>$</item>
+        <item>€</item>
+        <item>Rs</item>
+        <item>¥</item>
+        <item>₩</item>
+        <item>$</item>
+        <item>Kr</item>
+        <item>₱</item>
+        <item>$</item>
+        <item>$</item>
+        <item>Bs</item>
+        <item>₫</item>
+    </string-array>
+    
+    <!-- Weather -->
+    <string name="weather">Weather forecast</string>
+    <string name="action_search_location">Search location</string>
+    <string name="action_locate_gps">Locate using GPS</string>
+    <string name="enter_location">Enter location</string>
+    
+    <!-- Notepad -->
+    <string name="edit_note">Edit note</string>
+    <string name="no_notes">NO NOTES YET</string>
+    <string name="action_add_note">Add note</string>
+    <string name="action_delete_note">Delete note</string>
+    <string name="action_save_note">Save note</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="enter_note_body">Enter note body</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

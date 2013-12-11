@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+    
+    <!-- Search for location using SearchView widget -->
+    <item android:id="@+id/action_search_location"
+          android:title="@string/action_search_location"
+          android:icon="@drawable/ic_action_search"
+          android:showAsAction="collapseActionView|always"
+          android:actionViewClass="android.widget.SearchView" />
+    
+    <!-- Locate using GPS -->
+    <item android:id="@+id/action_locate_gps"
+          android:icon="@drawable/ic_action_location_searching"
+          android:title="@string/action_locate_gps"
+          android:showAsAction="always" />
+</menu>
