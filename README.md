@@ -1,4 +1,4 @@
-ICAPRG409A_Project
+ICAPRG409A Android Project
 ==================
 
 A project submitted upon completion of ICAPRG409A (Develop mobile applications) unit in Polytechnic West–Thornlie campus.
